@@ -1,2 +1,2 @@
 # pages
-Only text for page
+Only text for page my apps
